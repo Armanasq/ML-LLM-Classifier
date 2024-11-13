@@ -1,4 +1,4 @@
-# Advanced Financial Behavioral Classification System
+# Financial Behavioral Classification System
 
 ![Python](https://img.shields.io/badge/Python-3.10.12-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange)
